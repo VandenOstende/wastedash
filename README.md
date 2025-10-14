@@ -1,6 +1,9 @@
 # Waste POI Dash - INEOS OXIDE
 
-Waste POI Dash is een webapplicatie voor het visualiseren en beheren van afvalinzamelpunten en -routes bij INEOS OXIDE (Nieuwe Weg 1, 2070 Zwijndrecht, België). Dit dashboard maakt gebruik van Mapbox GL JS voor de interactieve kaart, Firebase Firestore voor het opslaan van markers en lijnen, en biedt een moderne, mobielvriendelijke zijbalk voor gemakkelijke toegang tot alle functies.
+Waste POI Dash is een webapplicatie voor het visualiseren en beheren van afvalinzamelpunten en -routes bij INEOS OXIDE (Nieuwe Weg 1, 2070 Zwijndrecht, België). Dit dashboard maakt gebruik van Mapbox[...]
+
+> **Belangrijk:**  
+> Alles is met opzet in één enkel HTML-bestand (`index.html`) geplaatst om het dashboard zo simpel mogelijk te houden. Dit minimaliseert installatie, beheer en technische drempels: je hoeft enkel `index.html` te openen om te starten. Er zijn geen build-stappen of complexe mappenstructuren.
 
 ## Functies
 
