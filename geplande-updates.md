@@ -18,6 +18,8 @@ Afgewerkte functies worden afgevinkt en krijgen een datum van oplevering.
 | ✅     | Sidebar met accordion-menu's                               | 2024-05-12           |
 | ✅     | Responsief ontwerp voor mobiel en desktop                  | 2024-05-15           |
 | ⏳     | Dark mode ondersteuning                                    |                      |
+| ⏳     | Markers groeperen (clusteren) bij uitzoomen                |                      |
+| ⏳     | Automatisch herladen van Firestore database bij wijziging  |                      |
 
 ---
 
